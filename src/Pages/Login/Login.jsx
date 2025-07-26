@@ -100,4 +100,3 @@ const Login = () => {
 };
 
 export default Login;
-{/* <Link to='/signup'></Link> */}
